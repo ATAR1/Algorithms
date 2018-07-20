@@ -5,7 +5,9 @@ using System.Text;
 
 namespace Algorithms.Sort
 {
-    public class Class1
+    public abstract class Sorter
     {
+
+        public abstract int[] Sort(int[] mass);
     }
 }
