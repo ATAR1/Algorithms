@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="InsertionSorterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectionSorterTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Algorithms.Sort\Algorithms.Sort.csproj">
